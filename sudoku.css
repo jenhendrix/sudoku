@@ -1,0 +1,27 @@
+/* CSS declarations go here */
+.sector {
+    background:#f4f4f4;
+    display:inline-block;
+}
+
+.cell {
+    width:auto;
+    padding:5px;
+    float:left;
+    border: 1px solid gray;
+    width:25px;
+}
+
+input {
+    background: #f4f4f4;
+    border:0px;
+    width:20px;
+    font-size:20px;
+    display: block;
+    margin : 0 auto;
+    position: relative;
+}
+
+*:focus {
+    outline: 0;
+}
